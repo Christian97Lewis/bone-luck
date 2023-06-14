@@ -1,2 +1,3 @@
-# Example
-An example greeter plugin
+# Chaos Altar bone luck plugin
+
+Plugin that calculates how lucky (or unlucky) you are offering bones at the chaos altar.
