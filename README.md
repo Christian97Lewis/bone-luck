@@ -2,7 +2,7 @@
 
 ## What the plugin does
 * Shows your stats for offering bones at chaos altar
-* Shows shows how lucky you've gotten in offering your bones
+* Shows how lucky you've gotten in offering your bones
 
 ## Config options
 * Toggle actual XP gained
