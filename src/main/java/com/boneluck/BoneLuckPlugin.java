@@ -20,8 +20,7 @@ import java.util.regex.Pattern;
 				name = "Bone Luck",
 				description = "Shows how lucky you've gotten offering your bones.",
 				tags = {"prayer", "bone", "luck"},
-				loadWhenOutdated = true,
-				enabledByDefault = false
+				loadWhenOutdated = true
 )
 
 @Slf4j
