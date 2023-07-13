@@ -1,3 +1,11 @@
-# Chaos Altar bone luck plugin
+# Bone Luck
 
-Plugin that calculates how lucky (or unlucky) you are offering bones at the chaos altar.
+## What the plugin does
+* Shows your stats for offering bones at chaos altar
+* Shows shows how lucky you've gotten in offering your bones
+
+## Config options
+* Toggle actual XP gained
+* Toggle expected XP based on averages
+
+If you come across any bugs or have suggestions don't be afraid to submit a new issue in this repository.
