@@ -19,8 +19,7 @@ import java.util.regex.Pattern;
 @PluginDescriptor(
 				name = "Bone Luck",
 				description = "Shows how lucky you've gotten offering your bones.",
-				tags = {"prayer", "bone", "luck"},
-				loadWhenOutdated = true
+				tags = {"prayer", "bone", "luck"}
 )
 
 @Slf4j
